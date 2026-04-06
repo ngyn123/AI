@@ -1,0 +1,3 @@
+Dòng 1: Hệ thống khởi động
+Dòng 2: Dữ liệu an toàn
+Dòng 3: Kết thúc
